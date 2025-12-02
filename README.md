@@ -1,17 +1,28 @@
 # Systems Programming Journey
 
-## Goal
+# Hi, I'm Rushabh 👋
 
-Deep dive into systems programming, OS fundamentals, and backend engineering.
+## Full Stack Developer → Systems Engineer
 
-## Progress
+Currently on a journey to master systems programming and backend architecture.
 
-- Week 1: C fundamentals + OS basics setup
+### What I'm Learning
+- Operating Systems fundamentals (processes, memory, scheduling)
+- Systems architecture (I/O multiplexing, event loops, distributed systems)
+- Systems programming languages (C, Rust)
+- Backend engineering at scale
 
-## Projects
+### Current Projects
+- High-performance HTTP server with epoll (C)
+- (More coming...)
 
-- (Will add as I complete them)
+### My Journey
+- 1+ year full-stack development (JavaScript, React, Node.js)
+- Shipped MVP for Australian startup
+- Recognized gap in systems knowledge
+- Now going deep
 
-## Blog Posts
-
-- (Will add as I write them)
+### Connect
+- Blog: [link - we'll add this later]
+- GitHub: [github.com/Mr-Bull007]
+- Email: rushabhdev0999@gmail.com
